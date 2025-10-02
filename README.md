@@ -1,4 +1,4 @@
-# QUIZ_GAME_mini_project
+# 🧩 QUIZ GAME *mini project
 파이썬으로 만든 콘솔 기반 퀴즈 게임.  
 “넌센스”와 “IT 용어” 두 가지 종류의 퀴즈를 JSON 파일로 관리하고, 랜덤 출제/정답 체크/점수 집계 기능을 제공합니다.
 
