@@ -12,6 +12,17 @@
 - quiz_DB.py
 - quiz_main.py
 
+```bash
+        .
+        ├── Q_nonsense.json # nonsense 문제(딕셔너리 형태) 
+        ├── A_nonsense.json # nonsense 정답(딕셔너리 형태)
+        ├── Q_IT.json # IT 문제(딕셔너리 형태)
+        ├── A_IT.json # IT 정답(딕셔너리 형태)
+        ├── quiz_DB.py # DB/문제 선택 관련 로직
+        ├── quiz_main.py # 메인 실행 파일(게임 실행)
+        └── README.md
+```
+
 ## 기술 스택
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 버전 : Python 3.13.7
