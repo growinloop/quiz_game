@@ -12,8 +12,10 @@
 - quiz_DB.py
 - quiz_main.py
 
-## 파이썬 버전
-Python 3.13.7
+## 기술 스택
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+버전 : Python 3.13.7
+
 
 ## 프로그램 환경
 ## 실행 결과 (코드 실행하면 무슨일이?) - 단계별
