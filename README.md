@@ -69,7 +69,7 @@
 - README.md를 통한 문서화
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-버전 : Python 3.13.7 (기술스택에 버전 있어 중복되니까 여기 삭제하고 뱃지만 남길까요?)
+버전 : Python 3.13.7 (기술스택에 버전 있어 중복되니까 여기 삭제하고 벳지만 남길까요?)
 
 ## 프로젝트 후기
 
